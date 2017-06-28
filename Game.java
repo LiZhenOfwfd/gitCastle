@@ -86,9 +86,10 @@ public class Game {
     		} else if ( words[0].equals("bye") ) {
     			break;
     		}
+	}
     		 System.out.println("感谢您的光临。再见！");
     	        in.close();
-    	}
+    	
     }
 	public static void main(String[] args) {
 		
